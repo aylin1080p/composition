@@ -2,6 +2,8 @@ import UIKit
 
 var greeting = "composition"
 
+// 
+
 class Person{
     
     var name:String?
@@ -13,6 +15,9 @@ class Person{
         self.age = age
         self.adress = adress
     }
+    
+    
+    
     
     
     
